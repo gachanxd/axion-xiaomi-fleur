@@ -1,6 +1,6 @@
 <!-- Banner image (replace the link below with your hosted image URL) -->
 <p align="center">
-  <img src="https://your-image-link-here.com/axion-fleur-banner.png" alt="Axion OS for Fleur" width="800">
+  <img src="https://ibb.co/1fMcf5jq" alt="Axion OS for Fleur" width="800">
 </p>
 
 <h1 align="center">📱 Axion OS v2.1 (Android 16)<br>Redmi Note 11S / POCO M4 Pro (fleur)</h1>
