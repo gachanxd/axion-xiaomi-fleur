@@ -63,3 +63,5 @@
 2. Flash the boot image:
    ```bash
    fastboot flash boot boot.img
+
+3 Than Sideload The rom
