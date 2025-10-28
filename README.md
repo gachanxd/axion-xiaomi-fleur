@@ -1,1 +1,1 @@
-# Axion OS for Redmi Note 10 (fleur)
+# Axion OS for Redmi Note 11s / POCO M4 PRO (fleur)
